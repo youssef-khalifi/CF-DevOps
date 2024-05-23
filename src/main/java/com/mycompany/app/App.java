@@ -1,13 +1,10 @@
 package com.mycompany.app;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
     {
         System.out.println( "Bonjour et bon courage dans votre examen en DevOps" );
+	System.out.println( "bon courage pour Jenkins" );
     }
 }
